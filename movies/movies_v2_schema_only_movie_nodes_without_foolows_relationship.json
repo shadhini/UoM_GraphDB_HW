@@ -1,0 +1,62 @@
+﻿[
+  {
+    "graphName": "movies_v2",
+    "nodeProjection": {
+      "Movie": {
+        "label": "Movie",
+        "properties": {
+
+        }
+      }
+    },
+    "nodeCount": 38,
+    "relationshipProjection": {
+      "ACTED_IN": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "ACTED_IN",
+        "properties": {
+
+        }
+      },
+      "REVIEWED": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "REVIEWED",
+        "properties": {
+
+        }
+      },
+      "PRODUCED": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "PRODUCED",
+        "properties": {
+
+        }
+      },
+      "WROTE": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "WROTE",
+        "properties": {
+
+        }
+      },
+      "DIRECTED": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "DIRECTED",
+        "properties": {
+
+        }
+      }
+    },
+    "relationshipCount": 0
+  }
+]

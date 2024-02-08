@@ -1,0 +1,79 @@
+[
+    {
+        "identity": -1,
+        "start": -1,
+        "end": -2,
+        "type": "ACTED_IN",
+        "properties": {
+      
+        },
+        "elementId": "-1",
+        "startNodeElementId": "-1",
+        "endNodeElementId": "-2"
+      }
+      ,
+      {
+        "identity": -6,
+        "start": -1,
+        "end": -2,
+        "type": "REVIEWED",
+        "properties": {
+      
+        },
+        "elementId": "-6",
+        "startNodeElementId": "-1",
+        "endNodeElementId": "-2"
+      }
+      ,
+      {
+        "identity": -3,
+        "start": -1,
+        "end": -2,
+        "type": "PRODUCED",
+        "properties": {
+      
+        },
+        "elementId": "-3",
+        "startNodeElementId": "-1",
+        "endNodeElementId": "-2"
+      }
+      ,
+      {
+        "identity": -4,
+        "start": -1,
+        "end": -2,
+        "type": "WROTE",
+        "properties": {
+      
+        },
+        "elementId": "-4",
+        "startNodeElementId": "-1",
+        "endNodeElementId": "-2"
+      }
+      ,
+      {
+        "identity": -5,
+        "start": -1,
+        "end": -1,
+        "type": "FOLLOWS",
+        "properties": {
+      
+        },
+        "elementId": "-5",
+        "startNodeElementId": "-1",
+        "endNodeElementId": "-1"
+      }
+      ,
+      {
+        "identity": -2,
+        "start": -1,
+        "end": -2,
+        "type": "DIRECTED",
+        "properties": {
+      
+        },
+        "elementId": "-2",
+        "startNodeElementId": "-1",
+        "endNodeElementId": "-2"
+      }
+]

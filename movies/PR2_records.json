@@ -1,0 +1,198 @@
+﻿[
+CALL gds.pageRank.stream('movies_v1') 
+YIELD nodeId, score
+WITH gds.util.asNode(nodeId) AS n, score AS pageRank
+MATCH (n:Movie)
+RETURN n.title AS movie_title, n.released AS released_year, pageRank
+ORDER BY pageRank DESC, movie_title ASC
+  {
+    "movie_title": "Jerry Maguire",
+    "released_year": 2000,
+    "pageRank": 1.1608536458333334
+  },
+  {
+    "movie_title": "A Few Good Men",
+    "released_year": 1992,
+    "pageRank": 1.13175
+  },
+  {
+    "movie_title": "Top Gun",
+    "released_year": 1986,
+    "pageRank": 0.9830000000000002
+  },
+  {
+    "movie_title": "Speed Racer",
+    "released_year": 2008,
+    "pageRank": 0.9716666666666668
+  },
+  {
+    "movie_title": "The Green Mile",
+    "released_year": 1999,
+    "pageRank": 0.9248076923076924
+  },
+  {
+    "movie_title": "Cloud Atlas",
+    "released_year": 2012,
+    "pageRank": 0.8951196714743591
+  },
+  {
+    "movie_title": "Stand By Me",
+    "released_year": 1986,
+    "pageRank": 0.883125
+  },
+  {
+    "movie_title": "The Replacements",
+    "released_year": 2000,
+    "pageRank": 0.7976304315476193
+  },
+  {
+    "movie_title": "A League of Their Own",
+    "released_year": 1992,
+    "pageRank": 0.7760576923076925
+  },
+  {
+    "movie_title": "V for Vendetta",
+    "released_year": 2006,
+    "pageRank": 0.7209166666666669
+  },
+  {
+    "movie_title": "When Harry Met Sally",
+    "released_year": 1998,
+    "pageRank": 0.6855000000000001
+  },
+  {
+    "movie_title": "Johnny Mnemonic",
+    "released_year": 1995,
+    "pageRank": 0.6782142857142859
+  },
+  {
+    "movie_title": "The Da Vinci Code",
+    "released_year": 2006,
+    "pageRank": 0.6712863381410258
+  },
+  {
+    "movie_title": "Sleepless in Seattle",
+    "released_year": 1993,
+    "pageRank": 0.6634326923076923
+  },
+  {
+    "movie_title": "Frost/Nixon",
+    "released_year": 2008,
+    "pageRank": 0.6175
+  },
+  {
+    "movie_title": "What Dreams May Come",
+    "released_year": 1998,
+    "pageRank": 0.606875
+  },
+  {
+    "movie_title": "You've Got Mail",
+    "released_year": 1998,
+    "pageRank": 0.5996826923076923
+  },
+  {
+    "movie_title": "Snow Falling on Cedars",
+    "released_year": 1999,
+    "pageRank": 0.5962500000000002
+  },
+  {
+    "movie_title": "Ninja Assassin",
+    "released_year": 2009,
+    "pageRank": 0.5395833333333334
+  },
+  {
+    "movie_title": "RescueDawn",
+    "released_year": 2006,
+    "pageRank": 0.5325000000000001
+  },
+  {
+    "movie_title": "Unforgiven",
+    "released_year": 1992,
+    "pageRank": 0.4914786458333334
+  },
+  {
+    "movie_title": "Twister",
+    "released_year": 1996,
+    "pageRank": 0.4900000000000001
+  },
+  {
+    "movie_title": "The Devil's Advocate",
+    "released_year": 1997,
+    "pageRank": 0.48696428571428574
+  },
+  {
+    "movie_title": "Apollo 13",
+    "released_year": 1995,
+    "pageRank": 0.47855769230769235
+  },
+  {
+    "movie_title": "The Matrix",
+    "released_year": 1999,
+    "pageRank": 0.45579761904761906
+  },
+  {
+    "movie_title": "Hoffa",
+    "released_year": 1992,
+    "pageRank": 0.4517500000000001
+  },
+  {
+    "movie_title": "Something's Gotta Give",
+    "released_year": 2003,
+    "pageRank": 0.44871428571428573
+  },
+  {
+    "movie_title": "As Good as It Gets",
+    "released_year": 1997,
+    "pageRank": 0.44112500000000004
+  },
+  {
+    "movie_title": "Charlie Wilson's War",
+    "released_year": 2007,
+    "pageRank": 0.4148076923076924
+  },
+  {
+    "movie_title": "The Birdcage",
+    "released_year": 1996,
+    "pageRank": 0.40647864583333343
+  },
+  {
+    "movie_title": "Bicentennial Man",
+    "released_year": 1999,
+    "pageRank": 0.38375000000000004
+  },
+  {
+    "movie_title": "Joe Versus the Volcano",
+    "released_year": 1990,
+    "pageRank": 0.3765576923076924
+  },
+  {
+    "movie_title": "That Thing You Do",
+    "released_year": 1996,
+    "pageRank": 0.36086538461538464
+  },
+  {
+    "movie_title": "One Flew Over the Cuckoo's Nest",
+    "released_year": 1975,
+    "pageRank": 0.34550000000000003
+  },
+  {
+    "movie_title": "The Matrix Reloaded",
+    "released_year": 2003,
+    "pageRank": 0.32829761904761906
+  },
+  {
+    "movie_title": "The Matrix Revolutions",
+    "released_year": 2003,
+    "pageRank": 0.32829761904761906
+  },
+  {
+    "movie_title": "Cast Away",
+    "released_year": 2000,
+    "pageRank": 0.26605769230769233
+  },
+  {
+    "movie_title": "The Polar Express",
+    "released_year": 2004,
+    "pageRank": 0.22355769230769235
+  }
+]

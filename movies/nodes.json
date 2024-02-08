@@ -1,0 +1,35 @@
+[
+    {
+    "identity": -2,
+    "labels": [
+      "Movie"
+    ],
+    "properties": {
+      "name": "Movie",
+      "indexes": [
+        "released"
+      ],
+      "constraints": [
+        "Constraint( id=13, name='constraint_3044d997', type='UNIQUENESS', schema=(:Movie {title}), ownedIndex=9 )"
+      ]
+    },
+    "elementId": "-2"
+  }
+  ,
+  {
+    "identity": -1,
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "name": "Person",
+      "indexes": [
+        "born"
+      ],
+      "constraints": [
+        "Constraint( id=12, name='constraint_e26b1a8b', type='UNIQUENESS', schema=(:Person {name}), ownedIndex=7 )"
+      ]
+    },
+    "elementId": "-1"
+  }
+]

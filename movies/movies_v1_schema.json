@@ -1,0 +1,77 @@
+﻿[
+  {
+    "graphName": "movies_v1",
+    "nodeProjection": {
+      "Movie": {
+        "label": "Movie",
+        "properties": {
+
+        }
+      },
+      "Person": {
+        "label": "Person",
+        "properties": {
+
+        }
+      }
+    },
+    "nodeCount": 171,
+    "relationshipProjection": {
+      "ACTED_IN": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "ACTED_IN",
+        "properties": {
+
+        }
+      },
+      "REVIEWED": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "REVIEWED",
+        "properties": {
+
+        }
+      },
+      "PRODUCED": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "PRODUCED",
+        "properties": {
+
+        }
+      },
+      "WROTE": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "WROTE",
+        "properties": {
+
+        }
+      },
+      "FOLLOWS": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "FOLLOWS",
+        "properties": {
+
+        }
+      },
+      "DIRECTED": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "DIRECTED",
+        "properties": {
+
+        }
+      }
+    },
+    "relationshipCount": 253
+  }
+]
