@@ -1,0 +1,4387 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8704,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Turkish"
+          ],
+          "year": 2014,
+          "imdbId": "0829150",
+          "runtime": 92,
+          "imdbRating": 6.3,
+          "movieId": "114795",
+          "countries": [
+            "USA",
+            " Japan"
+          ],
+          "imdbVotes": 130900,
+          "title": "Dracula Untold",
+          "url": "https://themoviedb.org/movie/49017",
+          "revenue": 217124280,
+          "tmdbId": "49017",
+          "plot": "As his kingdom is being threatened by the Turks, young prince Vlad Tepes must become a monster feared by his own people in order to obtain the power needed to protect his own family, and the families of his kingdom.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg",
+          "released": "2014-10-10",
+          "budget": 70000000
+        },
+        "elementId": "8704"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19413,
+            "start": 8704,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19413",
+            "startNodeElementId": "8704",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8704,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Turkish"
+              ],
+              "year": 2014,
+              "imdbId": "0829150",
+              "runtime": 92,
+              "imdbRating": 6.3,
+              "movieId": "114795",
+              "countries": [
+                "USA",
+                " Japan"
+              ],
+              "imdbVotes": 130900,
+              "title": "Dracula Untold",
+              "url": "https://themoviedb.org/movie/49017",
+              "revenue": 217124280,
+              "tmdbId": "49017",
+              "plot": "As his kingdom is being threatened by the Turks, young prince Vlad Tepes must become a monster feared by his own people in order to obtain the power needed to protect his own family, and the families of his kingdom.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg",
+              "released": "2014-10-10",
+              "budget": 70000000
+            },
+            "elementId": "8704"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8705,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "2494280",
+          "runtime": 94,
+          "imdbRating": 6.5,
+          "movieId": "114818",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 21253,
+          "title": "Stretch",
+          "url": "https://themoviedb.org/movie/227300",
+          "tmdbId": "227300",
+          "plot": "A hard-luck limo driver struggles to go straight and pay off a debt to his bookie. He takes on a job with a crazed passenger, whose sought-after ledger implicates some seriously dangerous criminals.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dRchzFXWwdhIcWCazREhF8lj1uy.jpg",
+          "released": "2014-10-14"
+        },
+        "elementId": "8705"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19416,
+            "start": 8705,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19416",
+            "startNodeElementId": "8705",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8705,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "2494280",
+              "runtime": 94,
+              "imdbRating": 6.5,
+              "movieId": "114818",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 21253,
+              "title": "Stretch",
+              "url": "https://themoviedb.org/movie/227300",
+              "tmdbId": "227300",
+              "plot": "A hard-luck limo driver struggles to go straight and pay off a debt to his bookie. He takes on a job with a crazed passenger, whose sought-after ledger implicates some seriously dangerous criminals.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dRchzFXWwdhIcWCazREhF8lj1uy.jpg",
+              "released": "2014-10-14"
+            },
+            "elementId": "8705"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8707,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "2397535",
+          "runtime": 97,
+          "imdbRating": 7.4,
+          "movieId": "114935",
+          "countries": [
+            "Australia"
+          ],
+          "imdbVotes": 153165,
+          "title": "Predestination",
+          "url": "https://themoviedb.org/movie/206487",
+          "revenue": 4824499,
+          "tmdbId": "206487",
+          "plot": "The life of a time-traveling Temporal Agent. On his final assignment, he must pursue the one criminal that has eluded him throughout time.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/sYjpJZEdwELjdHy4OVzazeJVT0z.jpg",
+          "released": "2015-01-09",
+          "budget": 5500000
+        },
+        "elementId": "8707"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19422,
+            "start": 8707,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19422",
+            "startNodeElementId": "8707",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8707,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "2397535",
+              "runtime": 97,
+              "imdbRating": 7.4,
+              "movieId": "114935",
+              "countries": [
+                "Australia"
+              ],
+              "imdbVotes": 153165,
+              "title": "Predestination",
+              "url": "https://themoviedb.org/movie/206487",
+              "revenue": 4824499,
+              "tmdbId": "206487",
+              "plot": "The life of a time-traveling Temporal Agent. On his final assignment, he must pursue the one criminal that has eluded him throughout time.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/sYjpJZEdwELjdHy4OVzazeJVT0z.jpg",
+              "released": "2015-01-09",
+              "budget": 5500000
+            },
+            "elementId": "8707"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8699,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Arabic"
+          ],
+          "year": 2014,
+          "imdbId": "2179136",
+          "runtime": 133,
+          "imdbRating": 7.3,
+          "movieId": "114662",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 307331,
+          "title": "American Sniper",
+          "url": "https://themoviedb.org/movie/190859",
+          "revenue": 542307423,
+          "tmdbId": "190859",
+          "plot": "Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home to his wife and kids after four tours of duty, however, Chris finds that it is the war he can't leave behind.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/oKJtbxRusjmu8sqzwnzhgUbojyg.jpg",
+          "released": "2015-01-16",
+          "budget": 58800000
+        },
+        "elementId": "8699"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19402,
+            "start": 8699,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19402",
+            "startNodeElementId": "8699",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8699,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Arabic"
+              ],
+              "year": 2014,
+              "imdbId": "2179136",
+              "runtime": 133,
+              "imdbRating": 7.3,
+              "movieId": "114662",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 307331,
+              "title": "American Sniper",
+              "url": "https://themoviedb.org/movie/190859",
+              "revenue": 542307423,
+              "tmdbId": "190859",
+              "plot": "Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home to his wife and kids after four tours of duty, however, Chris finds that it is the war he can't leave behind.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/oKJtbxRusjmu8sqzwnzhgUbojyg.jpg",
+              "released": "2015-01-16",
+              "budget": 58800000
+            },
+            "elementId": "8699"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8721,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "2245084",
+          "runtime": 102,
+          "imdbRating": 7.9,
+          "movieId": "115617",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 253901,
+          "title": "Big Hero 6",
+          "url": "https://themoviedb.org/movie/177572",
+          "revenue": 657827828,
+          "tmdbId": "177572",
+          "plot": "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+          "released": "2014-11-07",
+          "budget": 165000000
+        },
+        "elementId": "8721"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19450,
+            "start": 8721,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19450",
+            "startNodeElementId": "8721",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8721,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "2245084",
+              "runtime": 102,
+              "imdbRating": 7.9,
+              "movieId": "115617",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 253901,
+              "title": "Big Hero 6",
+              "url": "https://themoviedb.org/movie/177572",
+              "revenue": 657827828,
+              "tmdbId": "177572",
+              "plot": "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+              "released": "2014-11-07",
+              "budget": 165000000
+            },
+            "elementId": "8721"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8712,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "2556874",
+          "runtime": 102,
+          "imdbRating": 6.0,
+          "movieId": "115151",
+          "countries": [
+            "UK"
+          ],
+          "imdbVotes": 5458,
+          "title": "Plastic",
+          "url": "https://themoviedb.org/movie/208869",
+          "tmdbId": "208869",
+          "plot": "Sam and Fordy run a credit card fraud scheme, but when they steal from the wrong man, they find themselves threatened by a sadistic gangster. They need to raise £2m and pull off a daring diamond heist to clear their debt.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/1jva5sTJnlz9g11Xm0GTxl6WAIk.jpg",
+          "released": "2014-09-26",
+          "budget": 10
+        },
+        "elementId": "8712"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19434,
+            "start": 8712,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19434",
+            "startNodeElementId": "8712",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8712,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "2556874",
+              "runtime": 102,
+              "imdbRating": 6.0,
+              "movieId": "115151",
+              "countries": [
+                "UK"
+              ],
+              "imdbVotes": 5458,
+              "title": "Plastic",
+              "url": "https://themoviedb.org/movie/208869",
+              "tmdbId": "208869",
+              "plot": "Sam and Fordy run a credit card fraud scheme, but when they steal from the wrong man, they find themselves threatened by a sadistic gangster. They need to raise £2m and pull off a daring diamond heist to clear their debt.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/1jva5sTJnlz9g11Xm0GTxl6WAIk.jpg",
+              "released": "2014-09-26",
+              "budget": 10
+            },
+            "elementId": "8712"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8711,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Russian",
+            " Hungarian"
+          ],
+          "year": 2014,
+          "imdbId": "2911666",
+          "runtime": 101,
+          "imdbRating": 7.2,
+          "movieId": "115149",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 230206,
+          "title": "John Wick",
+          "url": "https://themoviedb.org/movie/245891",
+          "revenue": 88761661,
+          "tmdbId": "245891",
+          "plot": "An ex-hitman comes out of retirement to track down the gangsters that took everything from him.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+          "released": "2014-10-24",
+          "budget": 20000000
+        },
+        "elementId": "8711"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19432,
+            "start": 8711,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19432",
+            "startNodeElementId": "8711",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8711,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Russian",
+                " Hungarian"
+              ],
+              "year": 2014,
+              "imdbId": "2911666",
+              "runtime": 101,
+              "imdbRating": 7.2,
+              "movieId": "115149",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 230206,
+              "title": "John Wick",
+              "url": "https://themoviedb.org/movie/245891",
+              "revenue": 88761661,
+              "tmdbId": "245891",
+              "plot": "An ex-hitman comes out of retirement to track down the gangsters that took everything from him.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+              "released": "2014-10-24",
+              "budget": 20000000
+            },
+            "elementId": "8711"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8715,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " German"
+          ],
+          "year": 2014,
+          "imdbId": "2713180",
+          "runtime": 134,
+          "imdbRating": 7.6,
+          "movieId": "115210",
+          "countries": [
+            "USA",
+            " China",
+            " UK"
+          ],
+          "imdbVotes": 286603,
+          "title": "Fury",
+          "url": "https://themoviedb.org/movie/228150",
+          "revenue": 211817906,
+          "tmdbId": "228150",
+          "plot": "April, 1945. As the Allies make their final push in the European Theatre, a battle-hardened Army sergeant named Wardaddy commands a Sherman tank and his five-man crew on a deadly mission behind enemy lines. Outnumbered, out-gunned, and with a rookie soldier thrust into their platoon, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+          "released": "2014-10-17",
+          "budget": 68000000
+        },
+        "elementId": "8715"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19438,
+            "start": 8715,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19438",
+            "startNodeElementId": "8715",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8715,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " German"
+              ],
+              "year": 2014,
+              "imdbId": "2713180",
+              "runtime": 134,
+              "imdbRating": 7.6,
+              "movieId": "115210",
+              "countries": [
+                "USA",
+                " China",
+                " UK"
+              ],
+              "imdbVotes": 286603,
+              "title": "Fury",
+              "url": "https://themoviedb.org/movie/228150",
+              "revenue": 211817906,
+              "tmdbId": "228150",
+              "plot": "April, 1945. As the Allies make their final push in the European Theatre, a battle-hardened Army sergeant named Wardaddy commands a Sherman tank and his five-man crew on a deadly mission behind enemy lines. Outnumbered, out-gunned, and with a rookie soldier thrust into their platoon, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+              "released": "2014-10-17",
+              "budget": 68000000
+            },
+            "elementId": "8715"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8672,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Chinese"
+          ],
+          "year": 2014,
+          "imdbId": "1396523",
+          "runtime": 94,
+          "imdbRating": 5.3,
+          "movieId": "113416",
+          "countries": [
+            "Hong Kong",
+            " USA"
+          ],
+          "imdbVotes": 2572,
+          "title": "Revenge of the Green Dragons",
+          "url": "https://themoviedb.org/movie/286709",
+          "tmdbId": "286709",
+          "plot": "Two best friends rise through the ranks of New York's Chinese underworld in the 1980s.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/1JUdnY9mrAWzuy5pxavTavgZx88.jpg",
+          "released": "2014-09-11",
+          "budget": 5000000
+        },
+        "elementId": "8672"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19346,
+            "start": 8672,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19346",
+            "startNodeElementId": "8672",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8672,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Chinese"
+              ],
+              "year": 2014,
+              "imdbId": "1396523",
+              "runtime": 94,
+              "imdbRating": 5.3,
+              "movieId": "113416",
+              "countries": [
+                "Hong Kong",
+                " USA"
+              ],
+              "imdbVotes": 2572,
+              "title": "Revenge of the Green Dragons",
+              "url": "https://themoviedb.org/movie/286709",
+              "tmdbId": "286709",
+              "plot": "Two best friends rise through the ranks of New York's Chinese underworld in the 1980s.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/1JUdnY9mrAWzuy5pxavTavgZx88.jpg",
+              "released": "2014-09-11",
+              "budget": 5000000
+            },
+            "elementId": "8672"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8676,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "0458481",
+          "runtime": 102,
+          "imdbRating": 6.5,
+          "movieId": "113573",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 103177,
+          "title": "Sin City: A Dame to Kill For",
+          "url": "https://themoviedb.org/movie/189",
+          "revenue": 39407616,
+          "tmdbId": "189",
+          "plot": "Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/50kALxDX4mmzIRljbNbPY0u4cie.jpg",
+          "released": "2014-08-22",
+          "budget": 65000000
+        },
+        "elementId": "8676"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19354,
+            "start": 8676,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19354",
+            "startNodeElementId": "8676",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8676,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "0458481",
+              "runtime": 102,
+              "imdbRating": 6.5,
+              "movieId": "113573",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 103177,
+              "title": "Sin City: A Dame to Kill For",
+              "url": "https://themoviedb.org/movie/189",
+              "revenue": 39407616,
+              "tmdbId": "189",
+              "plot": "Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/50kALxDX4mmzIRljbNbPY0u4cie.jpg",
+              "released": "2014-08-22",
+              "budget": 65000000
+            },
+            "elementId": "8676"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8670,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Japanese"
+          ],
+          "year": 2014,
+          "imdbId": "1291150",
+          "runtime": 101,
+          "imdbRating": 5.9,
+          "movieId": "113348",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 157045,
+          "title": "Teenage Mutant Ninja Turtles",
+          "url": "https://themoviedb.org/movie/98566",
+          "revenue": 477200000,
+          "tmdbId": "98566",
+          "plot": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
+          "released": "2014-08-08",
+          "budget": 125000000
+        },
+        "elementId": "8670"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19341,
+            "start": 8670,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19341",
+            "startNodeElementId": "8670",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8670,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Japanese"
+              ],
+              "year": 2014,
+              "imdbId": "1291150",
+              "runtime": 101,
+              "imdbRating": 5.9,
+              "movieId": "113348",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 157045,
+              "title": "Teenage Mutant Ninja Turtles",
+              "url": "https://themoviedb.org/movie/98566",
+              "revenue": 477200000,
+              "tmdbId": "98566",
+              "plot": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
+              "released": "2014-08-08",
+              "budget": 125000000
+            },
+            "elementId": "8670"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8669,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Russian"
+          ],
+          "year": 2015,
+          "imdbId": "1617661",
+          "runtime": 127,
+          "imdbRating": 5.4,
+          "movieId": "113345",
+          "countries": [
+            "USA",
+            " Australia"
+          ],
+          "imdbVotes": 129577,
+          "title": "Jupiter Ascending",
+          "url": "https://themoviedb.org/movie/76757",
+          "revenue": 183987723,
+          "tmdbId": "76757",
+          "plot": "A young woman discovers her destiny as an heiress of intergalactic nobility and must fight to protect the inhabitants of Earth from an ancient and destructive industry.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/mb4zAOosaO9tHyH1n7g0634moK0.jpg",
+          "released": "2015-02-06",
+          "budget": 176000003
+        },
+        "elementId": "8669"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19338,
+            "start": 8669,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19338",
+            "startNodeElementId": "8669",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8669,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Russian"
+              ],
+              "year": 2015,
+              "imdbId": "1617661",
+              "runtime": 127,
+              "imdbRating": 5.4,
+              "movieId": "113345",
+              "countries": [
+                "USA",
+                " Australia"
+              ],
+              "imdbVotes": 129577,
+              "title": "Jupiter Ascending",
+              "url": "https://themoviedb.org/movie/76757",
+              "revenue": 183987723,
+              "tmdbId": "76757",
+              "plot": "A young woman discovers her destiny as an heiress of intergalactic nobility and must fight to protect the inhabitants of Earth from an ancient and destructive industry.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/mb4zAOosaO9tHyH1n7g0634moK0.jpg",
+              "released": "2015-02-06",
+              "budget": 176000003
+            },
+            "elementId": "8669"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8690,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "1790864",
+          "runtime": 113,
+          "imdbRating": 6.8,
+          "movieId": "114180",
+          "countries": [
+            "USA",
+            " Canada",
+            " UK"
+          ],
+          "imdbVotes": 293462,
+          "title": "Maze Runner, The",
+          "url": "https://themoviedb.org/movie/198663",
+          "revenue": 348319861,
+          "tmdbId": "198663",
+          "plot": "Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow runners for a shot at escape.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+          "released": "2014-09-19",
+          "budget": 34000000
+        },
+        "elementId": "8690"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19381,
+            "start": 8690,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19381",
+            "startNodeElementId": "8690",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8690,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "1790864",
+              "runtime": 113,
+              "imdbRating": 6.8,
+              "movieId": "114180",
+              "countries": [
+                "USA",
+                " Canada",
+                " UK"
+              ],
+              "imdbVotes": 293462,
+              "title": "Maze Runner, The",
+              "url": "https://themoviedb.org/movie/198663",
+              "revenue": 348319861,
+              "tmdbId": "198663",
+              "plot": "Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow runners for a shot at escape.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+              "released": "2014-09-19",
+              "budget": 34000000
+            },
+            "elementId": "8690"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8634,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "2109248",
+          "runtime": 165,
+          "imdbRating": 5.7,
+          "movieId": "112370",
+          "countries": [
+            "USA",
+            " China"
+          ],
+          "imdbVotes": 231442,
+          "title": "Transformers: Age of Extinction",
+          "url": "https://themoviedb.org/movie/91314",
+          "revenue": 1104054072,
+          "tmdbId": "91314",
+          "plot": "Autobots must escape sight from a bounty hunter who has taken control of the human serendipity: Unexpectedly, Optimus Prime and his remaining gang turn to a mechanic (Mark Wahlberg), his daughter (Nicola Peltz), and her back street racing boyfriend (Jack Reynor) for help.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/54HFDOswRfShCr25Tvt7JaLiIaf.jpg",
+          "released": "2014-06-27",
+          "budget": 210000000
+        },
+        "elementId": "8634"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19271,
+            "start": 8634,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19271",
+            "startNodeElementId": "8634",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8634,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "2109248",
+              "runtime": 165,
+              "imdbRating": 5.7,
+              "movieId": "112370",
+              "countries": [
+                "USA",
+                " China"
+              ],
+              "imdbVotes": 231442,
+              "title": "Transformers: Age of Extinction",
+              "url": "https://themoviedb.org/movie/91314",
+              "revenue": 1104054072,
+              "tmdbId": "91314",
+              "plot": "Autobots must escape sight from a bounty hunter who has taken control of the human serendipity: Unexpectedly, Optimus Prime and his remaining gang turn to a mechanic (Mark Wahlberg), his daughter (Nicola Peltz), and her back street racing boyfriend (Jack Reynor) for help.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/54HFDOswRfShCr25Tvt7JaLiIaf.jpg",
+              "released": "2014-06-27",
+              "budget": 210000000
+            },
+            "elementId": "8634"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8659,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "1267297",
+          "runtime": 98,
+          "imdbRating": 6.0,
+          "movieId": "112911",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 110104,
+          "title": "Hercules",
+          "url": "https://themoviedb.org/movie/184315",
+          "revenue": 244819862,
+          "tmdbId": "184315",
+          "plot": "Having endured his legendary twelve labors, Hercules, the Greek demigod, has his life as a sword-for-hire tested when the King of Thrace and his daughter seek his aid in defeating a tyrannical warlord.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/5X3VOy9lD44VclKsWTi8gHZGjhL.jpg",
+          "released": "2014-07-25",
+          "budget": 100000000
+        },
+        "elementId": "8659"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19320,
+            "start": 8659,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19320",
+            "startNodeElementId": "8659",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8659,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "1267297",
+              "runtime": 98,
+              "imdbRating": 6.0,
+              "movieId": "112911",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 110104,
+              "title": "Hercules",
+              "url": "https://themoviedb.org/movie/184315",
+              "revenue": 244819862,
+              "tmdbId": "184315",
+              "plot": "Having endured his legendary twelve labors, Hercules, the Greek demigod, has his life as a sword-for-hire tested when the King of Thrace and his daughter seek his aid in defeating a tyrannical warlord.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/5X3VOy9lD44VclKsWTi8gHZGjhL.jpg",
+              "released": "2014-07-25",
+              "budget": 100000000
+            },
+            "elementId": "8659"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8657,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "2015381",
+          "runtime": 121,
+          "imdbRating": 8.1,
+          "movieId": "112852",
+          "countries": [
+            "USA",
+            " UK"
+          ],
+          "imdbVotes": 621608,
+          "title": "Guardians of the Galaxy",
+          "url": "https://themoviedb.org/movie/118340",
+          "revenue": 772776600,
+          "tmdbId": "118340",
+          "plot": "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+          "released": "2014-08-01",
+          "budget": 170000000
+        },
+        "elementId": "8657"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19315,
+            "start": 8657,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19315",
+            "startNodeElementId": "8657",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8657,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "2015381",
+              "runtime": 121,
+              "imdbRating": 8.1,
+              "movieId": "112852",
+              "countries": [
+                "USA",
+                " UK"
+              ],
+              "imdbVotes": 621608,
+              "title": "Guardians of the Galaxy",
+              "url": "https://themoviedb.org/movie/118340",
+              "revenue": 772776600,
+              "tmdbId": "118340",
+              "plot": "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+              "released": "2014-08-01",
+              "budget": 170000000
+            },
+            "elementId": "8657"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8658,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 2014,
+          "imdbId": "2333784",
+          "runtime": 126,
+          "imdbRating": 6.1,
+          "movieId": "112897",
+          "countries": [
+            "USA",
+            " France",
+            " Bulgaria"
+          ],
+          "imdbVotes": 120130,
+          "title": "The Expendables 3",
+          "url": "https://themoviedb.org/movie/138103",
+          "revenue": 206172544,
+          "tmdbId": "138103",
+          "plot": "Barney augments his team with new blood for a personal battle: to take down Conrad Stonebanks, the Expendables co-founder and notorious arms trader who is hell bent on wiping out Barney and every single one of his associates.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/6MD1qPgEdvOfPCJkA1dq0SdOz2.jpg",
+          "released": "2014-08-15",
+          "budget": 90000000
+        },
+        "elementId": "8658"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19318,
+            "start": 8658,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19318",
+            "startNodeElementId": "8658",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8658,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 2014,
+              "imdbId": "2333784",
+              "runtime": 126,
+              "imdbRating": 6.1,
+              "movieId": "112897",
+              "countries": [
+                "USA",
+                " France",
+                " Bulgaria"
+              ],
+              "imdbVotes": 120130,
+              "title": "The Expendables 3",
+              "url": "https://themoviedb.org/movie/138103",
+              "revenue": 206172544,
+              "tmdbId": "138103",
+              "plot": "Barney augments his team with new blood for a personal battle: to take down Conrad Stonebanks, the Expendables co-founder and notorious arms trader who is hell bent on wiping out Barney and every single one of his associates.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/6MD1qPgEdvOfPCJkA1dq0SdOz2.jpg",
+              "released": "2014-08-15",
+              "budget": 90000000
+            },
+            "elementId": "8658"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8655,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "2975578",
+          "runtime": 103,
+          "imdbRating": 6.5,
+          "movieId": "112818",
+          "countries": [
+            "USA",
+            " France"
+          ],
+          "imdbVotes": 81462,
+          "title": "Purge: Anarchy, The",
+          "url": "https://themoviedb.org/movie/238636",
+          "revenue": 111928365,
+          "tmdbId": "238636",
+          "plot": "Three groups of people are trying to survive Purge Night, when their stories intertwine and are left stranded in The Purge trying to survive the chaos and violence that occurs.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/f2HD5iVhJWWv72QVWThUKk09zYy.jpg",
+          "released": "2014-07-18",
+          "budget": 9000000
+        },
+        "elementId": "8655"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19309,
+            "start": 8655,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19309",
+            "startNodeElementId": "8655",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8655,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "2975578",
+              "runtime": 103,
+              "imdbRating": 6.5,
+              "movieId": "112818",
+              "countries": [
+                "USA",
+                " France"
+              ],
+              "imdbVotes": 81462,
+              "title": "Purge: Anarchy, The",
+              "url": "https://themoviedb.org/movie/238636",
+              "revenue": 111928365,
+              "tmdbId": "238636",
+              "plot": "Three groups of people are trying to survive Purge Night, when their stories intertwine and are left stranded in The Purge trying to survive the chaos and violence that occurs.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/f2HD5iVhJWWv72QVWThUKk09zYy.jpg",
+              "released": "2014-07-18",
+              "budget": 9000000
+            },
+            "elementId": "8655"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8613,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "2784512",
+          "runtime": 77,
+          "imdbRating": 4.8,
+          "movieId": "111663",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 10259,
+          "title": "Zombeavers",
+          "url": "https://themoviedb.org/movie/254474",
+          "revenue": 14947,
+          "tmdbId": "254474",
+          "plot": "A fun weekend turns into madness and horror for a bunch of groupies looking for fun in a beaver infested swamp.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/gdb7v5GCfijrCjOjzbziGMGs6JA.jpg",
+          "released": "2015-03-20"
+        },
+        "elementId": "8613"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19228,
+            "start": 8613,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19228",
+            "startNodeElementId": "8613",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8613,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "2784512",
+              "runtime": 77,
+              "imdbRating": 4.8,
+              "movieId": "111663",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 10259,
+              "title": "Zombeavers",
+              "url": "https://themoviedb.org/movie/254474",
+              "revenue": 14947,
+              "tmdbId": "254474",
+              "plot": "A fun weekend turns into madness and horror for a bunch of groupies looking for fun in a beaver infested swamp.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/gdb7v5GCfijrCjOjzbziGMGs6JA.jpg",
+              "released": "2015-03-20"
+            },
+            "elementId": "8613"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8612,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "1587310",
+          "runtime": 97,
+          "imdbRating": 7.0,
+          "movieId": "111659",
+          "countries": [
+            "USA",
+            " UK"
+          ],
+          "imdbVotes": 240316,
+          "title": "Maleficent",
+          "url": "https://themoviedb.org/movie/102651",
+          "revenue": 758539785,
+          "tmdbId": "102651",
+          "plot": "A vengeful fairy is driven to curse an infant princess, only to discover that the child may be the one person who can restore peace to their troubled land.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
+          "released": "2014-05-30",
+          "budget": 180000000
+        },
+        "elementId": "8612"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19224,
+            "start": 8612,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19224",
+            "startNodeElementId": "8612",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8612,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "1587310",
+              "runtime": 97,
+              "imdbRating": 7.0,
+              "movieId": "111659",
+              "countries": [
+                "USA",
+                " UK"
+              ],
+              "imdbVotes": 240316,
+              "title": "Maleficent",
+              "url": "https://themoviedb.org/movie/102651",
+              "revenue": 758539785,
+              "tmdbId": "102651",
+              "plot": "A vengeful fairy is driven to curse an infant princess, only to discover that the child may be the one person who can restore peace to their troubled land.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
+              "released": "2014-05-30",
+              "budget": 180000000
+            },
+            "elementId": "8612"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8603,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Japanese"
+          ],
+          "year": 2014,
+          "imdbId": "0831387",
+          "runtime": 123,
+          "imdbRating": 6.5,
+          "movieId": "111364",
+          "countries": [
+            "USA",
+            " Japan"
+          ],
+          "imdbVotes": 291436,
+          "title": "Godzilla",
+          "url": "https://themoviedb.org/movie/124905",
+          "revenue": 529076069,
+          "tmdbId": "124905",
+          "plot": "The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/6R0xEIeXpOJt3vg1SsQuJkOKBWu.jpg",
+          "released": "2014-05-16",
+          "budget": 160000000
+        },
+        "elementId": "8603"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19210,
+            "start": 8603,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19210",
+            "startNodeElementId": "8603",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8603,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Japanese"
+              ],
+              "year": 2014,
+              "imdbId": "0831387",
+              "runtime": 123,
+              "imdbRating": 6.5,
+              "movieId": "111364",
+              "countries": [
+                "USA",
+                " Japan"
+              ],
+              "imdbVotes": 291436,
+              "title": "Godzilla",
+              "url": "https://themoviedb.org/movie/124905",
+              "revenue": 529076069,
+              "tmdbId": "124905",
+              "plot": "The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/6R0xEIeXpOJt3vg1SsQuJkOKBWu.jpg",
+              "released": "2014-05-16",
+              "budget": 160000000
+            },
+            "elementId": "8603"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8601,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " French",
+            " Spanish",
+            " Korean",
+            " Chinese"
+          ],
+          "year": 2014,
+          "imdbId": "2872732",
+          "runtime": 89,
+          "imdbRating": 6.4,
+          "movieId": "111360",
+          "countries": [
+            "France",
+            " USA"
+          ],
+          "imdbVotes": 312470,
+          "title": "Lucy",
+          "url": "https://themoviedb.org/movie/240832",
+          "revenue": 458863600,
+          "tmdbId": "240832",
+          "plot": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+          "released": "2014-07-25",
+          "budget": 40000000
+        },
+        "elementId": "8601"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19205,
+            "start": 8601,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19205",
+            "startNodeElementId": "8601",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8601,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " French",
+                " Spanish",
+                " Korean",
+                " Chinese"
+              ],
+              "year": 2014,
+              "imdbId": "2872732",
+              "runtime": 89,
+              "imdbRating": 6.4,
+              "movieId": "111360",
+              "countries": [
+                "France",
+                " USA"
+              ],
+              "imdbVotes": 312470,
+              "title": "Lucy",
+              "url": "https://themoviedb.org/movie/240832",
+              "revenue": 458863600,
+              "tmdbId": "240832",
+              "plot": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+              "released": "2014-07-25",
+              "budget": 40000000
+            },
+            "elementId": "8601"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8602,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Vietnamese",
+            " French"
+          ],
+          "year": 2014,
+          "imdbId": "1877832",
+          "runtime": 132,
+          "imdbRating": 8.0,
+          "movieId": "111362",
+          "countries": [
+            "USA",
+            " UK",
+            " Canada"
+          ],
+          "imdbVotes": 475053,
+          "title": "X-Men: Days of Future Past",
+          "url": "https://themoviedb.org/movie/127585",
+          "revenue": 747862775,
+          "tmdbId": "127585",
+          "plot": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg",
+          "released": "2014-05-23",
+          "budget": 250000000
+        },
+        "elementId": "8602"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19207,
+            "start": 8602,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19207",
+            "startNodeElementId": "8602",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8602,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Vietnamese",
+                " French"
+              ],
+              "year": 2014,
+              "imdbId": "1877832",
+              "runtime": 132,
+              "imdbRating": 8.0,
+              "movieId": "111362",
+              "countries": [
+                "USA",
+                " UK",
+                " Canada"
+              ],
+              "imdbVotes": 475053,
+              "title": "X-Men: Days of Future Past",
+              "url": "https://themoviedb.org/movie/127585",
+              "revenue": 747862775,
+              "tmdbId": "127585",
+              "plot": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg",
+              "released": "2014-05-23",
+              "budget": 250000000
+            },
+            "elementId": "8602"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8628,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English"
+          ],
+          "year": 2014,
+          "imdbId": "1646971",
+          "runtime": 102,
+          "imdbRating": 7.9,
+          "movieId": "112175",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 207901,
+          "title": "How to Train Your Dragon 2",
+          "url": "https://themoviedb.org/movie/82702",
+          "revenue": 609123048,
+          "tmdbId": "82702",
+          "plot": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+          "released": "2014-06-13",
+          "budget": 145000000
+        },
+        "elementId": "8628"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19260,
+            "start": 8628,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19260",
+            "startNodeElementId": "8628",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8628,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English"
+              ],
+              "year": 2014,
+              "imdbId": "1646971",
+              "runtime": 102,
+              "imdbRating": 7.9,
+              "movieId": "112175",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 207901,
+              "title": "How to Train Your Dragon 2",
+              "url": "https://themoviedb.org/movie/82702",
+              "revenue": 609123048,
+              "tmdbId": "82702",
+              "plot": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+              "released": "2014-06-13",
+              "budget": 145000000
+            },
+            "elementId": "8628"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 182,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Spanish"
+          ],
+          "year": 1995,
+          "imdbId": "0113957",
+          "runtime": 114,
+          "imdbRating": 5.8,
+          "movieId": "185",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 47823,
+          "title": "Net, The",
+          "url": "https://themoviedb.org/movie/1642",
+          "revenue": 110627965,
+          "tmdbId": "1642",
+          "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+          "released": "1995-07-28",
+          "budget": 22000000
+        },
+        "elementId": "182"
+      },
+      "end": {
+        "identity": 8627,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "languages": [
+            "English",
+            " Russian",
+            " Spanish"
+          ],
+          "year": 2014,
+          "imdbId": "0455944",
+          "runtime": 132,
+          "imdbRating": 7.2,
+          "movieId": "112171",
+          "countries": [
+            "USA"
+          ],
+          "imdbVotes": 217348,
+          "title": "Equalizer, The",
+          "url": "https://themoviedb.org/movie/156022",
+          "revenue": 192330738,
+          "tmdbId": "156022",
+          "plot": "A man believes he has put his mysterious past behind him and has dedicated himself to beginning a new, quiet life. But when he meets a young girl under the control of ultra-violent Russian gangsters, he can't stand idly by - he has to help her.",
+          "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+          "released": "2014-09-26",
+          "budget": 55000000
+        },
+        "elementId": "8627"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 182,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Spanish"
+              ],
+              "year": 1995,
+              "imdbId": "0113957",
+              "runtime": 114,
+              "imdbRating": 5.8,
+              "movieId": "185",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 47823,
+              "title": "Net, The",
+              "url": "https://themoviedb.org/movie/1642",
+              "revenue": 110627965,
+              "tmdbId": "1642",
+              "plot": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+              "released": "1995-07-28",
+              "budget": 22000000
+            },
+            "elementId": "182"
+          },
+          "relationship": {
+            "identity": 364,
+            "start": 182,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "364",
+            "startNodeElementId": "182",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          }
+        },
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Genre"
+            ],
+            "properties": {
+              "name": "Action"
+            },
+            "elementId": "13"
+          },
+          "relationship": {
+            "identity": 19257,
+            "start": 8627,
+            "end": 13,
+            "type": "IN_GENRE",
+            "properties": {
+
+            },
+            "elementId": "19257",
+            "startNodeElementId": "8627",
+            "endNodeElementId": "13"
+          },
+          "end": {
+            "identity": 8627,
+            "labels": [
+              "Movie"
+            ],
+            "properties": {
+              "languages": [
+                "English",
+                " Russian",
+                " Spanish"
+              ],
+              "year": 2014,
+              "imdbId": "0455944",
+              "runtime": 132,
+              "imdbRating": 7.2,
+              "movieId": "112171",
+              "countries": [
+                "USA"
+              ],
+              "imdbVotes": 217348,
+              "title": "Equalizer, The",
+              "url": "https://themoviedb.org/movie/156022",
+              "revenue": 192330738,
+              "tmdbId": "156022",
+              "plot": "A man believes he has put his mysterious past behind him and has dedicated himself to beginning a new, quiet life. But when he meets a young girl under the control of ultra-violent Russian gangsters, he can't stand idly by - he has to help her.",
+              "poster": "https://image.tmdb.org/t/p/w440_and_h660_face/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+              "released": "2014-09-26",
+              "budget": 55000000
+            },
+            "elementId": "8627"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  }
+]

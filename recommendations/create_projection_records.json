@@ -1,0 +1,83 @@
+﻿[
+  {
+    "graphName": "movies_v3",
+    "nodeProjection": {
+      "Movie": {
+        "label": "Movie",
+        "properties": {
+
+        }
+      },
+      "User": {
+        "label": "User",
+        "properties": {
+
+        }
+      },
+      "Actor": {
+        "label": "Actor",
+        "properties": {
+
+        }
+      },
+      "Director": {
+        "label": "Director",
+        "properties": {
+
+        }
+      },
+      "Genre": {
+        "label": "Genre",
+        "properties": {
+
+        }
+      },
+      "Person": {
+        "label": "Person",
+        "properties": {
+
+        }
+      }
+    },
+    "nodeCount": 28863,
+    "relationshipProjection": {
+      "ACTED_IN": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "ACTED_IN",
+        "properties": {
+
+        }
+      },
+      "RATED": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "RATED",
+        "properties": {
+
+        }
+      },
+      "IN_GENRE": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "IN_GENRE",
+        "properties": {
+
+        }
+      },
+      "DIRECTED": {
+        "orientation": "NATURAL",
+        "indexInverse": false,
+        "aggregation": "DEFAULT",
+        "type": "DIRECTED",
+        "properties": {
+
+        }
+      }
+    },
+    "relationshipCount": 166261
+  }
+]

@@ -1,0 +1,196 @@
+﻿[
+  {
+    "nodes": [
+      {
+        "identity": -1,
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "name": "Movie",
+          "indexes": [
+            "year",
+            "imdbRating",
+            "released",
+            "imdbId",
+            "title",
+            "tagline"
+          ],
+          "constraints": [
+            "Constraint( id=77, name='constraint_737d9c1d', type='UNIQUENESS', schema=(:Movie {tmdbId}), ownedIndex=61 )",
+            "Constraint( id=75, name='constraint_3d5fcb7f', type='UNIQUENESS', schema=(:Movie {movieId}), ownedIndex=59 )"
+          ]
+        },
+        "elementId": "-1"
+      },
+      {
+        "identity": -3,
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "name": "User",
+          "indexes": [
+            "name"
+          ],
+          "constraints": [
+            "Constraint( id=76, name='constraint_3b27b0', type='UNIQUENESS', schema=(:User {userId}), ownedIndex=64 )"
+          ]
+        },
+        "elementId": "-3"
+      },
+      {
+        "identity": -4,
+        "labels": [
+          "Actor"
+        ],
+        "properties": {
+          "name": "Actor",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-4"
+      },
+      {
+        "identity": -5,
+        "labels": [
+          "Director"
+        ],
+        "properties": {
+          "name": "Director",
+          "indexes": [],
+          "constraints": []
+        },
+        "elementId": "-5"
+      },
+      {
+        "identity": -2,
+        "labels": [
+          "Genre"
+        ],
+        "properties": {
+          "name": "Genre",
+          "indexes": [],
+          "constraints": [
+            "Constraint( id=74, name='constraint_f8689281', type='UNIQUENESS', schema=(:Genre {name}), ownedIndex=62 )"
+          ]
+        },
+        "elementId": "-2"
+      },
+      {
+        "identity": -6,
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "Person",
+          "indexes": [
+            "name"
+          ],
+          "constraints": [
+            "Constraint( id=73, name='constraint_4499eae9', type='UNIQUENESS', schema=(:Person {tmdbId}), ownedIndex=63 )"
+          ]
+        },
+        "elementId": "-6"
+      }
+    ],
+    "relationships": [
+      {
+        "identity": -5,
+        "start": -6,
+        "end": -1,
+        "type": "ACTED_IN",
+        "properties": {
+
+        },
+        "elementId": "-5",
+        "startNodeElementId": "-6",
+        "endNodeElementId": "-1"
+      },
+      {
+        "identity": -3,
+        "start": -4,
+        "end": -1,
+        "type": "ACTED_IN",
+        "properties": {
+
+        },
+        "elementId": "-3",
+        "startNodeElementId": "-4",
+        "endNodeElementId": "-1"
+      },
+      {
+        "identity": -4,
+        "start": -5,
+        "end": -1,
+        "type": "ACTED_IN",
+        "properties": {
+
+        },
+        "elementId": "-4",
+        "startNodeElementId": "-5",
+        "endNodeElementId": "-1"
+      },
+      {
+        "identity": -2,
+        "start": -3,
+        "end": -1,
+        "type": "RATED",
+        "properties": {
+
+        },
+        "elementId": "-2",
+        "startNodeElementId": "-3",
+        "endNodeElementId": "-1"
+      },
+      {
+        "identity": -1,
+        "start": -1,
+        "end": -2,
+        "type": "IN_GENRE",
+        "properties": {
+
+        },
+        "elementId": "-1",
+        "startNodeElementId": "-1",
+        "endNodeElementId": "-2"
+      },
+      {
+        "identity": -7,
+        "start": -5,
+        "end": -1,
+        "type": "DIRECTED",
+        "properties": {
+
+        },
+        "elementId": "-7",
+        "startNodeElementId": "-5",
+        "endNodeElementId": "-1"
+      },
+      {
+        "identity": -8,
+        "start": -6,
+        "end": -1,
+        "type": "DIRECTED",
+        "properties": {
+
+        },
+        "elementId": "-8",
+        "startNodeElementId": "-6",
+        "endNodeElementId": "-1"
+      },
+      {
+        "identity": -6,
+        "start": -4,
+        "end": -1,
+        "type": "DIRECTED",
+        "properties": {
+
+        },
+        "elementId": "-6",
+        "startNodeElementId": "-4",
+        "endNodeElementId": "-1"
+      }
+    ]
+  }
+]
